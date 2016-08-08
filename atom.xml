@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ChangKun&#39;s Notes</title>
+  <subtitle>Quick Notes</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2016-08-08T17:16:45.431Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>Chang Kun</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何搭建一个个人博客</title>
+    <link href="http://yoursite.com/2016/08/09/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yoursite.com/2016/08/09/如何搭建一个个人博客/</id>
+    <published>2016-08-08T17:02:47.000Z</published>
+    <updated>2016-08-08T17:16:45.431Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h1&gt;
+    
+    </summary>
+    
+      <category term="WEB综合" scheme="http://yoursite.com/categories/WEB%E7%BB%BC%E5%90%88/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+  </entry>
+  
+</feed>
