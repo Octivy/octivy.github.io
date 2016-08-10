@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-10T07:02:18.629Z</updated>
+  <updated>2016-08-10T07:26:37.947Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,15 +16,134 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>js高级</title>
+    <link href="http://yoursite.com/2016/08/10/js%E9%AB%98%E7%BA%A7/"/>
+    <id>http://yoursite.com/2016/08/10/js高级/</id>
+    <published>2016-08-10T07:24:47.000Z</published>
+    <updated>2016-08-10T07:26:37.947Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="js高级学习笔记" scheme="http://yoursite.com/categories/js%E9%AB%98%E7%BA%A7%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js中级</title>
+    <link href="http://yoursite.com/2016/08/10/js%E4%B8%AD%E7%BA%A7/"/>
+    <id>http://yoursite.com/2016/08/10/js中级/</id>
+    <published>2016-08-10T07:24:27.000Z</published>
+    <updated>2016-08-10T07:24:27.293Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>jq 学习笔记</title>
+    <link href="http://yoursite.com/2016/08/10/jq-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2016/08/10/jq-学习笔记/</id>
+    <published>2016-08-10T07:22:48.000Z</published>
+    <updated>2016-08-10T07:27:56.276Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="jq学习笔记" scheme="http://yoursite.com/categories/jq%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="jQuery" scheme="http://yoursite.com/tags/jQuery/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>js 学习笔记</title>
+    <link href="http://yoursite.com/2016/08/10/js-%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2016/08/10/js-学习笔记/</id>
+    <published>2016-08-10T07:22:28.000Z</published>
+    <updated>2016-08-10T07:27:23.515Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="初级js学习笔记" scheme="http://yoursite.com/categories/%E5%88%9D%E7%BA%A7js%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>css</title>
+    <link href="http://yoursite.com/2016/08/10/css/"/>
+    <id>http://yoursite.com/2016/08/10/css/</id>
+    <published>2016-08-10T07:19:57.000Z</published>
+    <updated>2016-08-10T07:21:42.508Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="CSS学习笔记" scheme="http://yoursite.com/categories/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="CSS" scheme="http://yoursite.com/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>html要点总结</title>
+    <link href="http://yoursite.com/2016/08/10/html%E8%A6%81%E7%82%B9%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2016/08/10/html要点总结/</id>
+    <published>2016-08-10T07:15:38.000Z</published>
+    <updated>2016-08-10T07:16:43.223Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="HTML/CSS学习笔记" scheme="http://yoursite.com/categories/HTML-CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何用BootStrape搭建个人WEB网站</title>
+    <link href="http://yoursite.com/2016/08/10/%E5%A6%82%E4%BD%95%E7%94%A8BootStrap%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BAWEB%E7%BD%91%E7%AB%99/"/>
+    <id>http://yoursite.com/2016/08/10/如何用BootStrap搭建个人WEB网站/</id>
+    <published>2016-08-10T07:11:21.000Z</published>
+    <updated>2016-08-10T07:11:21.986Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>如何搭建一个个人博客</title>
     <link href="http://yoursite.com/2016/08/09/%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>http://yoursite.com/2016/08/09/如何搭建一个个人博客/</id>
     <published>2016-08-08T17:02:47.000Z</published>
-    <updated>2016-08-10T07:02:18.629Z</updated>
+    <updated>2016-08-10T07:28:37.324Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1-前言"><a href="#1-前言" class="headerlink" title="1.前言"></a>1.前言</h2><ul>
 <li>现在写博客的人越来越少了，但是还是有一些人希望用博客记录一下自己的所思所想或学习笔记。其中一部分人选择了一些网站提供的博客服务，一些人或有自己的个性需求或想通过建站学习技术，希望搭建一个自己的博客。不管你出于什么目的，本文将帮助你搭建一个自己的博客。  </li>
-<li>本文主要梳理方法，相关操作步骤由于官方文档和网上资料都很详尽，我就不在此啰嗦了。 </li>
+<li>本文主要梳理方法，相关操作步骤由于官方文档和网上资料都很详尽，我就不在此啰嗦了。<a id="more"></a> 
+</li>
 </ul>
 <hr>
 <h2 id="2-技术要点"><a href="#2-技术要点" class="headerlink" title="2.技术要点"></a>2.技术要点</h2><ul>
@@ -40,20 +159,21 @@
 <li>Github Pages可以提供给我们一个免费稳定的空间，一个在github下的域名。并且我们可以用github来管理我们的博客，一举三得。hexo 提供给我们一个界面干净简洁的博客框架。这样，四个步骤都齐了，下面就按步骤组装吧。</li>
 </ul>
 <hr>
-<h2 id="3-Hexo-Github-Pages方式搭建博客"><a href="#3-Hexo-Github-Pages方式搭建博客" class="headerlink" title="3.Hexo+Github Pages方式搭建博客"></a>3.Hexo+Github Pages方式搭建博客</h2><h3 id="（1）环境准备（根据自己电脑选择mac和win版本）"><a href="#（1）环境准备（根据自己电脑选择mac和win版本）" class="headerlink" title="（1）环境准备（根据自己电脑选择mac和win版本）"></a>（1）环境准备（根据自己电脑选择mac和win版本）</h3><ul>
+<h2 id="3-Hexo-Github-Pages方式搭建博客"><a href="#3-Hexo-Github-Pages方式搭建博客" class="headerlink" title="3.Hexo+Github Pages方式搭建博客"></a>3.Hexo+Github Pages方式搭建博客</h2><p>###（1）环境准备（根据自己电脑选择mac和win版本）  </p>
+<ul>
 <li><strong>安装node</strong><br>到Node.js官网下载相应平台的最新版本，一路安装即可。 </li>
 <li><strong>安装Git</strong><br>Git的客户端很多，可以用官方的，也可以用msysgit，根据自己电脑选择mac和win版本。</li>
-<li><strong>安装编译软件</strong><br>sublime(推荐） Dreamweaver(初学者) webstorm,无论哪种，你会就行。<h3 id="（2）安装Hexo-https-hexo-io-zh-cn"><a href="#（2）安装Hexo-https-hexo-io-zh-cn" class="headerlink" title="（2）安装Hexo https://hexo.io/zh-cn/"></a>（2）安装Hexo <a href="https://hexo.io/zh-cn/" target="_blank" rel="external">https://hexo.io/zh-cn/</a></h3></li>
+<li><strong>安装编译软件</strong><br>sublime(推荐） Dreamweaver(初学者) webstorm,无论哪种，你会就行。<br>###（2）安装Hexo <a href="https://hexo.io/zh-cn/" target="_blank" rel="external">https://hexo.io/zh-cn/</a>  </li>
 <li>自己先cd到你想要安装的目录下（避免安装到自己不想安装的目录下）</li>
 <li><strong>npm install hexo-cli -g</strong>，安装Hexo</li>
 <li><strong>hexo init blog</strong> ，初始化（创建blog文件夹作为工作目录）</li>
 <li><strong>cd blog</strong> ，调整目录到blog文件夹下</li>
 <li><strong>npm install</strong> ，安装依赖包</li>
 <li><strong>hexo server</strong> ，生成静态页面</li>
-<li><strong>浏览器输入<a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a></strong> ，本地启动测试就可以看到效果。<h3 id="（3）注册Github-建立仓库，部署"><a href="#（3）注册Github-建立仓库，部署" class="headerlink" title="（3）注册Github, 建立仓库，部署"></a>（3）注册Github, 建立仓库，部署</h3></li>
-<li>注册Github  <a href="https://github.com" target="_blank" rel="external">https://github.com</a> </li>
+<li><strong>浏览器输入<a href="http://localhost:4000" target="_blank" rel="external">http://localhost:4000</a></strong> ，本地启动测试就可以看到效果。<br>###（3）注册Github, 建立仓库，部署</li>
+<li>注册Github  <a href="https://github.com" target="_blank" rel="external">https://github.com</a>    </li>
 <li>建立与你用户名对应的仓库，仓库名必须为 your_user_name.github.com  </li>
-<li>添加SSH公钥<h3 id="（4）部署"><a href="#（4）部署" class="headerlink" title="（4）部署"></a>（4）部署</h3></li>
+<li>添加SSH公钥<br>###（4）部署  </li>
 <li>编辑_config.yml 配置文件(你安装目录下:\hexo下)。<br>  deploy:<br>  type: github<br>  repository: <a href="https://github.com/octivy（替换成你的github名）/octivy（替换成你的github名）.github.io.git" target="_blank" rel="external">https://github.com/octivy（替换成你的github名）/octivy（替换成你的github名）.github.io.git</a><br>  branch: master</li>
 <li>编辑完成后保存，执行：<br>  hexo generate<br>  hexo deploy</li>
 </ul>
@@ -62,7 +182,8 @@
     <summary type="html">
     
       &lt;h2 id=&quot;1-前言&quot;&gt;&lt;a href=&quot;#1-前言&quot; class=&quot;headerlink&quot; title=&quot;1.前言&quot;&gt;&lt;/a&gt;1.前言&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;现在写博客的人越来越少了，但是还是有一些人希望用博客记录一下自己的所思所想或学习笔记。其中一部分人选择了一些网站
+&lt;li&gt;现在写博客的人越来越少了，但是还是有一些人希望用博客记录一下自己的所思所想或学习笔记。其中一部分人选择了一些网站提供的博客服务，一些人或有自己的个性需求或想通过建站学习技术，希望搭建一个自己的博客。不管你出于什么目的，本文将帮助你搭建一个自己的博客。  &lt;/li&gt;
+&lt;li&gt;本文主要梳理方法，相关操作步骤由于官方文档和网上资料都很详尽，我就不在此啰嗦了。
     
     </summary>
     
