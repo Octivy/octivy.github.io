@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-10T07:26:37.947Z</updated>
+  <updated>2016-08-20T15:33:10.124Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,17 +16,64 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>page</title>
+    <link href="http://yoursite.com/2016/08/18/Ajax%E8%AF%A6%E8%A7%A3/"/>
+    <id>http://yoursite.com/2016/08/18/Ajax详解/</id>
+    <published>2016-08-18T15:38:26.000Z</published>
+    <updated>2016-08-20T15:33:10.124Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Ajax中的涉及的概念"><a href="#Ajax中的涉及的概念" class="headerlink" title="Ajax中的涉及的概念"></a>Ajax中的涉及的概念</h1><h2 id="同步和异步"><a href="#同步和异步" class="headerlink" title="同步和异步"></a>同步和异步</h2><h2 id="Http请求"><a href="#Http请求" class="headerlink" title="Http请求"></a>Http请求</h2><h2 id="Http-响应"><a href="#Http-响应" class="headerlink" title="Http 响应"></a>Http 响应</h2><h2 id="Http请求过程"><a href="#Http请求过程" class="headerlink" title="Http请求过程"></a>Http请求过程</h2><ul>
+<li>一个完整的HTTP请求过程,通常有下面7个步骤</li>
+<li>1.建立tcp连接</li>
+<li>2.web浏览器向web服务器发送请求命令 <h2 id="XMLHttpRequest对象"><a href="#XMLHttpRequest对象" class="headerlink" title="XMLHttpRequest对象"></a>XMLHttpRequest对象</h2><h2 id="XMLHttprequset实例的属性"><a href="#XMLHttprequset实例的属性" class="headerlink" title="XMLHttprequset实例的属性"></a>XMLHttprequset实例的属性</h2><h2 id="XMLHttprequset实例的方法"><a href="#XMLHttprequset实例的方法" class="headerlink" title="XMLHttprequset实例的方法"></a>XMLHttprequset实例的方法</h2></li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;Ajax中的涉及的概念&quot;&gt;&lt;a href=&quot;#Ajax中的涉及的概念&quot; class=&quot;headerlink&quot; title=&quot;Ajax中的涉及的概念&quot;&gt;&lt;/a&gt;Ajax中的涉及的概念&lt;/h1&gt;&lt;h2 id=&quot;同步和异步&quot;&gt;&lt;a href=&quot;#同步和异步&quot; class
+    
+    </summary>
+    
+      <category term="JavaScript初级学习笔记" scheme="http://yoursite.com/categories/JavaScript%E5%88%9D%E7%BA%A7%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://yoursite.com/2016/08/18/ajax/"/>
+    <id>http://yoursite.com/2016/08/18/ajax/</id>
+    <published>2016-08-18T15:37:56.300Z</published>
+    <updated>2016-08-18T15:37:56.501Z</updated>
+    
+    <content type="html"><![CDATA[<p>ajax</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ajax&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>js高级</title>
     <link href="http://yoursite.com/2016/08/10/js%E9%AB%98%E7%BA%A7/"/>
     <id>http://yoursite.com/2016/08/10/js高级/</id>
     <published>2016-08-10T07:24:47.000Z</published>
-    <updated>2016-08-10T07:26:37.947Z</updated>
+    <updated>2016-08-10T07:35:27.712Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="js高级学习笔记" scheme="http://yoursite.com/categories/js%E9%AB%98%E7%BA%A7%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="高级js学习笔记" scheme="http://yoursite.com/categories/%E9%AB%98%E7%BA%A7js%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
@@ -38,12 +85,16 @@
     <link href="http://yoursite.com/2016/08/10/js%E4%B8%AD%E7%BA%A7/"/>
     <id>http://yoursite.com/2016/08/10/js中级/</id>
     <published>2016-08-10T07:24:27.000Z</published>
-    <updated>2016-08-10T07:24:27.293Z</updated>
+    <updated>2016-08-10T07:35:22.927Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="中级js学习笔记" scheme="http://yoursite.com/categories/%E4%B8%AD%E7%BA%A7js%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="Javascript" scheme="http://yoursite.com/tags/Javascript/"/>
     
   </entry>
   
@@ -106,13 +157,13 @@
     <link href="http://yoursite.com/2016/08/10/html%E8%A6%81%E7%82%B9%E6%80%BB%E7%BB%93/"/>
     <id>http://yoursite.com/2016/08/10/html要点总结/</id>
     <published>2016-08-10T07:15:38.000Z</published>
-    <updated>2016-08-10T07:16:43.223Z</updated>
+    <updated>2016-08-10T07:35:15.374Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="HTML/CSS学习笔记" scheme="http://yoursite.com/categories/HTML-CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="HTML学习笔记" scheme="http://yoursite.com/categories/HTML%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
       <category term="HTML" scheme="http://yoursite.com/tags/HTML/"/>
@@ -124,12 +175,16 @@
     <link href="http://yoursite.com/2016/08/10/%E5%A6%82%E4%BD%95%E7%94%A8BootStrap%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BAWEB%E7%BD%91%E7%AB%99/"/>
     <id>http://yoursite.com/2016/08/10/如何用BootStrap搭建个人WEB网站/</id>
     <published>2016-08-10T07:11:21.000Z</published>
-    <updated>2016-08-10T07:11:21.986Z</updated>
+    <updated>2016-08-10T07:35:31.965Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="WEB综合" scheme="http://yoursite.com/categories/WEB%E7%BB%BC%E5%90%88/"/>
+    
+    
+      <category term="Bootstrap" scheme="http://yoursite.com/tags/Bootstrap/"/>
     
   </entry>
   
