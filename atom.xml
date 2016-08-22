@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-08-21T15:57:02.704Z</updated>
+  <updated>2016-08-22T15:44:41.286Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,11 @@
     <link href="http://yoursite.com/2016/08/18/Ajax%E8%AF%A6%E8%A7%A3/"/>
     <id>http://yoursite.com/2016/08/18/Ajax详解/</id>
     <published>2016-08-18T15:38:26.000Z</published>
-    <updated>2016-08-21T15:57:02.704Z</updated>
+    <updated>2016-08-22T15:44:41.286Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="Ajax中的涉及的概念"><a href="#Ajax中的涉及的概念" class="headerlink" title="Ajax中的涉及的概念"></a>Ajax中的涉及的概念</h1><p>** Ajax即”Asynchronous JavaScript and XML” 英文缩写,是指一种创建交互式网页应用的网页开发技术。可以不重载页面的情况下，对页面的某一部分进行更新。</p>
+    <content type="html"><![CDATA[<h1 id="Ajax中的涉及的概念"><a href="#Ajax中的涉及的概念" class="headerlink" title="Ajax中的涉及的概念"></a>Ajax中的涉及的概念</h1><ul>
+<li>Ajax即”Asynchronous JavaScript and XML” 英文缩写,是指一种创建交互式网页应用的网页开发技术。可以不重载页面的情况下，对页面的某一部分进行更新。</li>
+</ul>
 <h2 id="同步和异步"><a href="#同步和异步" class="headerlink" title="同步和异步"></a>同步和异步</h2><h2 id="Http请求"><a href="#Http请求" class="headerlink" title="Http请求"></a>Http请求</h2><h2 id="Http-响应"><a href="#Http-响应" class="headerlink" title="Http 响应"></a>Http 响应</h2><h2 id="Http请求过程"><a href="#Http请求过程" class="headerlink" title="Http请求过程"></a>Http请求过程</h2><ul>
 <li>一个完整的HTTP请求过程,通常有下面7个步骤</li>
 <li>1.建立tcp连接</li>
@@ -32,7 +34,8 @@
     
     <summary type="html">
     
-      &lt;h1 id=&quot;Ajax中的涉及的概念&quot;&gt;&lt;a href=&quot;#Ajax中的涉及的概念&quot; class=&quot;headerlink&quot; title=&quot;Ajax中的涉及的概念&quot;&gt;&lt;/a&gt;Ajax中的涉及的概念&lt;/h1&gt;&lt;p&gt;** Ajax即”Asynchronous JavaScript a
+      &lt;h1 id=&quot;Ajax中的涉及的概念&quot;&gt;&lt;a href=&quot;#Ajax中的涉及的概念&quot; class=&quot;headerlink&quot; title=&quot;Ajax中的涉及的概念&quot;&gt;&lt;/a&gt;Ajax中的涉及的概念&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;Ajax即”Asynchronous JavaScrip
     
     </summary>
     
