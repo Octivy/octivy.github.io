@@ -47,22 +47,38 @@
   </entry>
   
   <entry>
-    <title></title>
-    <link href="http://yoursite.com/2016/08/18/ajax/"/>
-    <id>http://yoursite.com/2016/08/18/ajax/</id>
-    <published>2016-08-18T15:37:56.300Z</published>
-    <updated>2016-08-18T15:37:56.501Z</updated>
+    <title>page</title>
+    <link href="http://yoursite.com/2016/08/18/gulp%E6%95%99%E7%A8%8B/"/>
+    <id>http://yoursite.com/2016/08/18/gulp教程/</id>
+    <published>2016-08-18T15:38:26.000Z</published>
+    <updated>2016-08-23T05:55:27.763Z</updated>
     
-    <content type="html"><![CDATA[<p>ajax</p>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h2 id="相关教程很多很详细，就不写了，引用一些我看过的好的教程。"><a href="#相关教程很多很详细，就不写了，引用一些我看过的好的教程。" class="headerlink" title="相关教程很多很详细，就不写了，引用一些我看过的好的教程。  "></a>相关教程很多很详细，就不写了，引用一些我看过的好的教程。  </h2><h2 id="1、gulp安装"><a href="#1、gulp安装" class="headerlink" title="1、gulp安装"></a>1、gulp安装</h2><ul>
+<li>1.1 gulp及相关软件安装：<a href="">http://www.ydcss.com/archives/18</a>  如果文章中8-10步不理解，参见2</li>
+<li><p>1.2 我把他替换为helloworld形式可能更好理解<br> （8）新建gulpfile.js  </p>
+  <figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">var</span> gulp = <span class="built_in">require</span>(<span class="string">'gulp'</span>)  </span><br><span class="line">  	gulp.task(<span class="string">'default'</span>,<span class="function"><span class="keyword">function</span>(<span class="params"></span>)</span>&#123;  </span><br><span class="line"> 	<span class="built_in">console</span>.log(<span class="string">'hello world'</span>);  </span><br><span class="line"> 	&#125;);</span><br></pre></td></tr></table></figure>
+<p> （9）运行gulp<br>  像安装gulp那样 再node环境下输入 gulp 即可输出hello world。这是个最简单的例子，我们调用了gulp提供的task方法，输出了helo world。</p>
+</li>
+</ul>
+<hr>
+<h2 id="2、gulp-的API"><a href="#2、gulp-的API" class="headerlink" title="2、gulp 的API"></a>2、gulp 的API</h2><ul>
+<li>推荐两篇文章</li>
+<li>2.1 宏观的介绍：<a href="">http://www.cnblogs.com/2050/p/4198792.html#part1</a></li>
+<li>2.2 详细介绍，<a href="">http://www.cnblogs.com/2050/p/4198792.html#part1</a>  博客中还涵盖了相关插件的展开。</li>
+<li>2.3 看官方API</li>
+</ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;ajax&lt;/p&gt;
-
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;h2 id=&quot;相关教程很多很详细，就不写了，引用一些我看过的好的教程。&quot;&gt;&lt;a href=&quot;#相关教程很多很详细，就不写了，引用一些我看过的好的
     
     </summary>
     
+      <category term="前端工具" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="gulp" scheme="http://yoursite.com/tags/gulp/"/>
     
   </entry>
   
@@ -71,9 +87,14 @@
     <link href="http://yoursite.com/2016/08/10/js%E9%AB%98%E7%BA%A7/"/>
     <id>http://yoursite.com/2016/08/10/js高级/</id>
     <published>2016-08-10T07:24:47.000Z</published>
-    <updated>2016-08-10T07:35:27.712Z</updated>
+    <updated>2016-08-23T09:12:17.660Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>1.<a href="">http://blog.csdn.net/flygoa/article/details/51865125</a><br>2.<a href="">http://wowubuntu.com/markdown/</a></p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;h2 id=&quot;简介&quot;&gt;&lt;a href=&quot;#简介&quot; class=&quot;headerlink&quot; title=&quot;简介&quot;&gt;&lt;/a&gt;简介&lt;/h2&gt;&lt;p&gt;1.&lt;a href=&quot;&quot;&gt;http://blog.csdn.net/flygoa/article/details/51865125&lt;/a&gt;&lt;
     
     </summary>
     
@@ -140,10 +161,10 @@
   
   <entry>
     <title>css</title>
-    <link href="http://yoursite.com/2016/08/10/css/"/>
-    <id>http://yoursite.com/2016/08/10/css/</id>
+    <link href="http://yoursite.com/2016/08/10/Markdown%E6%8A%80%E5%B7%A7/"/>
+    <id>http://yoursite.com/2016/08/10/Markdown技巧/</id>
     <published>2016-08-10T07:19:57.000Z</published>
-    <updated>2016-08-10T07:21:42.508Z</updated>
+    <updated>2016-08-23T05:56:13.753Z</updated>
     
     <summary type="html">
     
