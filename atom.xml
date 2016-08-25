@@ -164,16 +164,16 @@
     <link href="http://yoursite.com/2016/08/10/Markdown%E6%8A%80%E5%B7%A7/"/>
     <id>http://yoursite.com/2016/08/10/Markdown技巧/</id>
     <published>2016-08-10T07:19:57.000Z</published>
-    <updated>2016-08-23T05:56:13.753Z</updated>
+    <updated>2016-08-23T10:13:07.490Z</updated>
     
     <summary type="html">
     
     </summary>
     
-      <category term="CSS学习笔记" scheme="http://yoursite.com/categories/CSS%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <category term="前端工具" scheme="http://yoursite.com/categories/%E5%89%8D%E7%AB%AF%E5%B7%A5%E5%85%B7/"/>
     
     
-      <category term="CSS" scheme="http://yoursite.com/tags/CSS/"/>
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
     
   </entry>
   
@@ -196,13 +196,21 @@
   </entry>
   
   <entry>
-    <title>如何用BootStrape搭建个人WEB网站</title>
+    <title>如何用BootStrape搭建个人WEB简历</title>
     <link href="http://yoursite.com/2016/08/10/%E5%A6%82%E4%BD%95%E7%94%A8BootStrap%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BAWEB%E7%BD%91%E7%AB%99/"/>
     <id>http://yoursite.com/2016/08/10/如何用BootStrap搭建个人WEB网站/</id>
     <published>2016-08-10T07:11:21.000Z</published>
-    <updated>2016-08-10T07:35:31.965Z</updated>
+    <updated>2016-08-25T15:46:41.240Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><h2 id="本案例学习前需对整个web开发流程有所了解。"><a href="#本案例学习前需对整个web开发流程有所了解。" class="headerlink" title="* 本案例学习前需对整个web开发流程有所了解。"></a>* 本案例学习前需对整个web开发流程有所了解。</h2><h3 id="搭建项目文件目录"><a href="#搭建项目文件目录" class="headerlink" title="搭建项目文件目录"></a>搭建项目文件目录</h3><hr>
+<h3 id="前端自动化工具、"><a href="#前端自动化工具、" class="headerlink" title="前端自动化工具、"></a>前端自动化工具、</h3><ul>
+<li>这里使用gulp,具体教程可参考 <a href="https://segmentfault.com/a/1190000000372547" target="_blank" rel="external">https://segmentfault.com/a/1190000000372547</a><h3 id="个人web网站搭建"><a href="#个人web网站搭建" class="headerlink" title="个人web网站搭建"></a>个人web网站搭建</h3></li>
+</ul>
+]]></content>
     
     <summary type="html">
+    
+      &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;h2 id=&quot;本案例学习前需对整个web开发流程有所了解。&quot;&gt;&lt;a href=&quot;#本案例学习前需对整个web开发流程有所了解。&quot; class=&quot;
     
     </summary>
     
